@@ -9,4 +9,4 @@ Hello  👋 I'm Greg, a passionate frontend developer with a focus on creating p
 
 ## 🌐 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/gregmunro90/
+- [LinkedIn](https://www.linkedin.com/in/gregmunro90/)

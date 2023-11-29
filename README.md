@@ -9,7 +9,7 @@ Hello  👋 I'm Greg, a passionate frontend developer with a focus on creating p
 
 ## 👷🏼‍♂️ Live Projects 
 
--- [Whats the Weather like?](https://whatstheweatherlike.vercel.app/)
+- [Whats the Weather like?](https://whatstheweatherlike.vercel.app/)
 
 ## 🌐 Connect with Me
 

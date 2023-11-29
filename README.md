@@ -3,9 +3,9 @@ Hello  👋 I'm Greg, a passionate frontend developer with a focus on creating p
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, TypeScript
-- **Frontend:** React, HTML, CSS
+- **Frontend:** React, HTML, CSS, AWS Amplify
 - **Testing:** End-to-End (E2E) testing (Cypress / Jest)
-- **Data Integration:** Domo, Qlik
+- **Data Integration:** Domo, Qlik, REST, GraphQL, SQL
 
 ## 👷🏼‍♂️ Live Projects 
 

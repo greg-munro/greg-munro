@@ -1,4 +1,4 @@
-Hello  👋 I'm Greg, a passionate frontend developer with a focus on creating powerful and intuitive user interfaces. I specialise in JavacriptScript and React, and I bring experience in end-to-end (E2E) development to ensure a seamless user experience. My expertise lies in building dynamic and interactive data analytics dashboards that integrate large datasets from business intelligents tools.
+Hello  👋 I'm Greg, a passionate frontend developer with a focus on creating powerful and intuitive user interfaces. I specialise in JavaScript and React, and I bring experience in end-to-end (E2E) development to ensure a seamless user experience. My expertise lies in building dynamic and interactive data analytics dashboards that integrate datasets from business intelligence tools.
 
 ## 🛠️ Tech Stack
 

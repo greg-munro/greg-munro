@@ -1,4 +1,4 @@
-## Currently building a commercial finance product - ready to be released to market early 2025 📈🕺🏻🚀
+Currently building a commercial finance product - ready to be released to market early 2025 🕺🏻🚀
 
 ## 🛠️ Tech Stack
 

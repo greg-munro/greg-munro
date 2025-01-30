@@ -3,9 +3,9 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, TypeScript
-- **Frontend:** React, HTML, CSS, AWS Amplify
-- **Testing:** End-to-End (E2E) testing (Cypress / Jest)
-- **Data Integration:** Domo, Qlik, REST, GraphQL, SQL
+- **Frontend:** React, Next.js, HTML, CSS, AWS Amplify
+- **Testing:** Vitest, React Testing Library, Cypress
+- **Data Integration:** Domo, Qlik, REST, SQL, MongoDB
 
 ## 👷🏼‍♂️ Live Projects 
 
